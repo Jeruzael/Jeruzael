@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeruzael
 - 👀 I’m interested in Cybersecurity, Artificial intelligence, machine learning, and robotics.
-- 🌱 I’m currently studying at UCC as a Computer science student.
+- 🌱 I graduated with a bachelor of science in computer science.
 - 💞️ I’m looking to collaborate with everyone.
 - 📫 How to reach me, just email me at dumale.jeruzael.bscs2019@gmail.com
 

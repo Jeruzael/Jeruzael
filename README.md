@@ -6,7 +6,7 @@ college, we created console applications using Java, and C#, and continued to th
 next level of web development where we started to use frameworks like Bootstrap,
 Flutter, Firebase, and React. In my 3rd year of college, I got my internship as a QA
 tester for 400 hours and was luckily hired as a Freelance IT consultant (Frontend) for
-1 year. After my contract ends, I start my Journey in pursuing Artificial Technology.
+1 year.
 
 <!---
 Jeruzael/Jeruzael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
